@@ -92,6 +92,17 @@
     <string name="ad_pocket_mode_notifications">Notifications only</string>
     <string name="ad_pocket_mode_always">Always</string>
 
+    <!-- Device Control -->
+    <string name="device_control_title">Device Control</string>
+
+    <!-- DT2W -->
+    <string name="dt2w_title">DoubleTouch2Wake</string>
+    <string name="dt2w_summary">Twice touch the screen wake the device</string>
+
+    <!-- S2W -->
+    <string name="s2w_title">Sweep2wake</string>
+    <string name="s2w_summary">wake device by swiping your finger across the screen from left to right</string>
+
     <!-- About version and support -->
     <string name="mokee_version">MoKee version</string>
     <string name="mokee_version_default">Unknown</string>
