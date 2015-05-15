@@ -93,7 +93,6 @@
   <string name="dt2w_summary">熄屏状态下通过双击屏幕唤醒手机</string>
   <string name="s2w_title">滑动唤醒</string>
   <string name="s2w_summary">熄屏状态下通过滑动屏幕唤醒手机</string>
-  <string name="device_control_title">设备高级控制</string>
   <string name="mokee_version">魔趣版本</string>
   <string name="mokee_version_default">未知</string>
   <string name="mokee_support">社区支持</string>
